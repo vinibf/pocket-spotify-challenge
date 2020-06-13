@@ -1,0 +1,5 @@
+/node_modules
+/coverage
+/src/__tests__
+junit.xml
+stdout.txt
